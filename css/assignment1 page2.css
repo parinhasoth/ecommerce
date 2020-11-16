@@ -1,0 +1,367 @@
+@font-face{
+    font-family: Bandar;    
+    src: url(../assets/fonts/Bandar-Bold.otf);
+}
+#line1{
+    font-family: 'Bandar';
+    text-align: center;
+}
+p{
+    font-family: 'Bandar';
+
+}
+#input{
+    width: 500px;
+    border: none;
+     
+ }
+#awesome{
+    
+    color:black;
+    font-size: xx-large;
+}
+#awesome{
+    font-family: 'Bandar'; 
+    font-size: 30px;
+}
+
+.shop{
+    font-family: 'Bandar'; 
+    font-size: 40px;
+    color: rgb(14, 238, 14);
+}
+#h_1{
+  width: 100%;
+  align-content: center;
+}
+td#TD1{
+    border:4px solid black; align-content: center; width: 33%;
+    background-color: rgb(245, 122, 122);
+}
+td#TD2{
+    border:4px solid black; align-content: center;width: 33%;
+    background-color: rgb(245, 185, 75);
+}
+td#TD3{
+    border:4px solid black; align-content: center;width: 33%;
+    background-color: rgb(134, 78, 88);
+}
+
+#search{
+    width: 10px;
+}
+
+body{
+    border: 2px solid black ; 
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+#p_1{
+    font-size: x-large;
+    font-family: 'Bandar'; 
+    color: black;
+    float: right;
+}
+#p_2{
+    font-size: x-large;
+    font-family: 'Bandar'; 
+    color: black;
+    float: right;
+}
+#p_3{
+    font-size: x-large;
+    font-family: 'Bandar'; 
+    color: black;
+    float: right;
+}
+#p_4{
+    font-size: x-large;
+    font-family: 'Bandar'; 
+    color: black;
+    float: right;
+}
+ul{
+    list-style: none;
+}
+
+table#line2{
+    width: 100%;
+    margin-right: 30%;
+}
+#option{
+    border-radius: 4px;
+}
+table#line3{
+    width:100%;
+}
+
+#line3
+{
+    align-content: center ;
+    margin-top: 2px; 
+}
+
+#content_1{
+    width: 30%;
+}
+#content_2{
+    width: 70%;   
+}
+td#p_clothes{
+    border: 2px solid black;
+}
+
+table#line_3{
+  background-color: whitesmoke;
+}
+#dis_20{
+    width: min-content;
+    float: right;
+    color:black;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 2px;
+ 
+}
+#price{
+    color:green;
+    text-align: left ;
+}
+strike{
+    color: red;
+    font-size: large;
+    font-family: 'Bandar'; 
+    float: left;
+}
+#order{
+    float: left;
+    border-radius: 2px;
+}
+#photo{
+    align-content: center;
+    width: 100px;
+}
+
+img#img_p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+img#begin_1
+{
+    width: 100%;
+}
+img#id01{
+    float:right;
+    width:100px;
+
+}
+img#id02{
+    float:right;
+    width:100px;
+
+}
+img#id03{
+    float:right;
+    width:100px;
+
+}
+img#img_c3{
+    width: 180px;
+    float: center;
+}
+
+.container{
+    text-align: center;
+    color: black;
+    position: relative;
+   
+}
+.text-block {
+    position: absolute;
+    align-content: center;
+    top: 60%;
+    left: 30%;
+    
+}
+ .picture{
+    position: relative;
+ }
+ .text{
+    position: absolute;
+    bottom: 10%;
+    left: 30%;
+  
+ }
+ .left{
+    font-family: 'Bandar'; 
+    font-size: 40px;
+    position: absolute;
+    top: 8px;
+    left: 40px;
+}
+.right{
+    font-family: 'Bandar'; 
+    font-size: 20px;
+    position: absolute;
+    top: 8px;
+    right: 40px;
+    margin-top: 35px;
+}
+
+.button{
+    border-radius: 5px;
+    width: 600px;
+    text-align: end;
+   
+ }
+
+#loading{
+    font-size: large;
+    font-weight:normal;
+    font-style:normal;
+    background-color: rgb(25, 230, 114);
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+}
+#loading_1{
+    font-size:large;
+    font-family: 'Bandar'; 
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#content_2{
+    padding: 10px;
+    background-color:ghostwhite;
+    
+}
+#line_3{
+    border: 4px solid black;
+    margin-right: 20px;
+}
+#img-b_cloth{
+    width: 60%;
+    border-right: 1px gray;
+}
+#img-s_cloth{
+    width: 20%;
+    border: 3px solid gray;
+}
+#col_1{
+    border-right: 3px solid grey;
+    width: 40%;
+    text-align: center;
+    
+}
+#col_2{
+    width: 30%;
+    padding-right: 20px;
+}
+
+
+#p_name{
+    color: black;
+    font-family: 'Bandar';
+    margin-left: 20px;
+}
+
+
+#div_type{
+    text-align: left;
+    padding: 10px;
+}
+#strike{
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+#price{
+    float: right;
+    color: green;
+}
+#Anonymous{
+   text-align: left;
+   font-family: 'Bandar';
+   color: blue;
+  border: 2px solid gray;
+  font-size: medium;
+}
+
+#small{
+    color: grey;
+    font-size: small;
+}
+#cmt{
+    color: black;
+    font-family: 'Bandar';
+    margin-left: 20px;
+
+}
+#cmts{
+    font-size: small;
+    font-family: 'Bandar';
+    color: black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+#div_cmt{
+    position: relative;
+    width: 99.5%;
+    border: 3px solid black;
+    height: 20vh;
+}
+#div_cmt span{
+    position: relative;
+    padding: 3px 10px;
+    background-color: white;
+    bottom: 10px;
+    left: 10px;
+    font-size: medium;
+    font-family: 'Bandar';
+}
+#user{
+    width: 30px;
+    border-radius: 50%;
+    border-color: black;
+    float: left;
+    
+}
+#send{
+    background-color: green;
+    border: 2px  solid black;
+    height: 50px;
+    width: 100px;
+    font-family: 'Bandar';
+    font-size: large;
+    float: right;
+    
+    
+}
+#discard{
+    background-color:white;
+    border: 2px  solid black;
+    height: 50px;
+    width: 100px;
+    font-family: 'Bandar';
+    font-size: large;
+    float: right;
+    
+}
+#send img{
+    width: 20px;
+}
+#discard img{
+    width: 20px;
+}
+
+
+
